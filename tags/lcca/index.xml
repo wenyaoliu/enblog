@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LCCA on Leo Liu</title>
+    <link>https://wenyaoliu.github.io/enblog/tags/lcca/</link>
+    <description>Recent content in LCCA on Leo Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright By 4.0 CN</copyright>
+    <lastBuildDate>Sun, 28 Nov 2021 10:01:04 -0600</lastBuildDate>
+    
+        <atom:link href="https://wenyaoliu.github.io/enblog/tags/lcca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weekly Summarize 2309 Paper Revise</title>
+      <link>https://wenyaoliu.github.io/enblog/2021/11/friction-paper-revise/</link>
+      <pubDate>Sun, 28 Nov 2021 10:01:04 -0600</pubDate>
+      
+      <guid>https://wenyaoliu.github.io/enblog/2021/11/friction-paper-revise/</guid>
+      <description>Achieved this week:   Revised the 2309 LCCA manuscript, responded to most of the comments, and sent Dr. Li the revised manuscript.
+ Most of the comments are constructive. A major revision is conducted on the Abstract and Introduction The most important for academic writing is the logic flow:  Locate the gap: The big map, the gap exists when taking a closer look.  Support from convincing reports (WHO, World Bank, Government) What did others do?</description>
+    </item>
+    
+    <item>
+      <title>Love My Leo</title>
+      <link>https://wenyaoliu.github.io/enblog/2021/11/special-love-to-leo/</link>
+      <pubDate>Fri, 26 Nov 2021 00:01:04 -0600</pubDate>
+      
+      <guid>https://wenyaoliu.github.io/enblog/2021/11/special-love-to-leo/</guid>
+      <description>Thanksgiving Day, Special Love Dear Liu </description>
+    </item>
+    
+    <item>
+      <title>Best Thanksgiving Day</title>
+      <link>https://wenyaoliu.github.io/enblog/2021/11/best-thanksgiving-i-had/</link>
+      <pubDate>Thu, 25 Nov 2021 08:53:50 -0600</pubDate>
+      
+      <guid>https://wenyaoliu.github.io/enblog/2021/11/best-thanksgiving-i-had/</guid>
+      <description>The pandemic caused so many difficulties, and I have been trapped from gathering for a long time. After receiving the vaccine shooting, we are now confident to gather with our friends.
+It&amp;rsquo;s very kind of Dr. Li to invite us to his family for Thanksgiving. I prepared a traditional Chinese food called La Rou (Chinese bacon meat), and my roommate Guolong brought a dish called Simmered Pig Feet.
+Except for us students, Dr.</description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://wenyaoliu.github.io/enblog/learning/</link>
+      <pubDate>Thu, 25 Nov 2021 08:53:50 -0600</pubDate>
+      
+      <guid>https://wenyaoliu.github.io/enblog/learning/</guid>
+      <description>Data Science Machine Learning Academic Writing </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://wenyaoliu.github.io/enblog/projects/</link>
+      <pubDate>Thu, 25 Nov 2021 08:53:50 -0600</pubDate>
+      
+      <guid>https://wenyaoliu.github.io/enblog/projects/</guid>
+      <description>Peridynamics Simulation This project simulated the low-temperature cracking of SCB specimens.
+Safety Costs Calculator A spreadsheet was developed to compare the agency, user, and safety costs of different alternatives.
+More on the way ! </description>
+    </item>
+    
+  </channel>
+</rss>

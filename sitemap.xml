@@ -3,8 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://wenyaoliu.github.io/enblog/tags/2309/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/tags/academic-writing/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://wenyaoliu.github.io/enblog/categories/</loc>
-    <lastmod>2021-11-26T00:01:04-06:00</lastmod>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/tags/lcca/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/posts/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/tags/revise/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/tags/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/categories/weekly-summarize/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/2021/11/friction-paper-revise/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://wenyaoliu.github.io/enblog/categories/writing/</loc>
+    <lastmod>2021-11-28T10:01:04-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,13 +94,6 @@
   </url>
   
   <url>
-    <loc>https://wenyaoliu.github.io/enblog/</loc>
-    <lastmod>2021-11-26T00:01:04-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://wenyaoliu.github.io/enblog/tags/love/</loc>
     <lastmod>2021-11-26T00:01:04-06:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,21 +101,7 @@
   </url>
   
   <url>
-    <loc>https://wenyaoliu.github.io/enblog/2021/11/20211126-2306-paper-revise/</loc>
-    <lastmod>2021-11-26T00:01:04-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyaoliu.github.io/enblog/posts/</loc>
-    <lastmod>2021-11-26T00:01:04-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://wenyaoliu.github.io/enblog/tags/</loc>
+    <loc>https://wenyaoliu.github.io/enblog/2021/11/special-love-to-leo/</loc>
     <lastmod>2021-11-26T00:01:04-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -66,7 +115,7 @@
   </url>
   
   <url>
-    <loc>https://wenyaoliu.github.io/enblog/2021/11/20211125-best-thanksgiving-i-had/</loc>
+    <loc>https://wenyaoliu.github.io/enblog/2021/11/best-thanksgiving-i-had/</loc>
     <lastmod>2021-11-25T08:53:50-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
