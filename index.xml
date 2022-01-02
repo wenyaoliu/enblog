@@ -6,10 +6,19 @@
     <description>Recent content on Leo Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright By 4.0 CN</copyright>
-    <lastBuildDate>Sun, 28 Nov 2021 10:01:04 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jan 2022 00:01:04 -0600</lastBuildDate>
     
         <atom:link href="https://wenyaoliu.github.io/enblog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022 Happy New Year</title>
+      <link>https://wenyaoliu.github.io/enblog/2022/01/2022-happy-new-year/</link>
+      <pubDate>Sat, 01 Jan 2022 00:01:04 -0600</pubDate>
+      
+      <guid>https://wenyaoliu.github.io/enblog/2022/01/2022-happy-new-year/</guid>
+      <description>2022 Plan </description>
+    </item>
     
     <item>
       <title>Weekly Summarize 2309 Paper Revise</title>
